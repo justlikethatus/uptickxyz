@@ -5,7 +5,7 @@
 body {
     background-image:url('https://media.giphy.com/media/tGUJr7N765suQ/giphy.gif');
     background-size:100%;
-    background-repeat: non-repeat;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     height:100%;
     width:100%;
