@@ -3,6 +3,14 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
+body {
+    background-image:url('https://media.giphy.com/media/tGUJr7N765suQ/giphy.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
 
 header {
   padding: 154px 0 100px;
@@ -18,11 +26,3 @@ section {
   padding: 150px 0;
 }
 
-body {
-    background-image:url('https://media.giphy.com/media/tGUJr7N765suQ/giphy.gif');
-    background-size:100%;
-    background-repeat: repeat-y;
-    background-attachment: fixed;
-    height:100%;
-    width:100%;
-}
